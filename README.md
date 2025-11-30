@@ -54,6 +54,6 @@ We were to personalize our Power BI analysis and dashboards, ensuring that we:
 ## 👩🏽‍💻 Author
 
 - LinkedIn - [Grace Sampao](https://www.linkedin.com/in/grace-sampao)
-- GitHub - [@nadupoy](https://github.com/nadupoy)
+- GitHub - [@grace-sampao](https://github.com/grace-sampao)
 - X - [@grace_sampao](https://x.com/grace_sampao)
 - [Blog](https://grace-sampao.github.io/)
